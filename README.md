@@ -3,7 +3,7 @@ Ban Hammer
 
 Mod for Minetest that adds a hammer which bans any player that is punched with it.
 
-Version: 0.1.1
+Version: 0.2.0
 
 License of code: GPLv3 
 See LICENSE for full legal text.
