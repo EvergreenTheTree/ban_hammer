@@ -1,6 +1,6 @@
 -----------------------------------------------------------------------------------------------
 local title = "Ban Hammer"
-local version = "0.2.0"
+local version = "0.2.1"
 local mname = "ban_hammer"
 -----------------------------------------------------------------------------------------------
 dofile(minetest.get_modpath("ban_hammer").."/settings.txt")
